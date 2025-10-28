@@ -132,22 +132,5 @@ python scripts/gerar_relatorio.py
 
 ---
 
-## 🚀 Próximos Passos
 
-- Adicionar testes de estresse (Stress Test).  
-- Coletar métricas de percentil (P90, P95 e P99).  
-- Automatizar execução via CI/CD.  
-- Monitoramento contínuo de performance em produção.
 
----
-
-## 🧑‍💻 Autor
-
-Desenvolvido e mantido por [Seu Nome / Equipe]  
-📅 Relatório gerado automaticamente em: {datetime.today().strftime('%d/%m/%Y')}
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
