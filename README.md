@@ -21,6 +21,8 @@ O relatório final apresenta **gargalos, métricas de desempenho e oportunidades
   - Throughput (requisições por segundo)  
   - Desvio padrão de resposta  
   - Taxa de transferência de dados
+  - O arquivo utilizado para teste está na pata teste
+  - Na pasta relatorio tem doi arquivos de relatorios, um em PDF e outro em md para analise no proprio github dos testes realizados localmente.
 
 ---
 
